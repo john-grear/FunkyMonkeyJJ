@@ -1,11 +1,6 @@
 - 👋 Hi, I’m @FunkyMonkeyJJ
-- 👀 I’m interested in Minecraft plugins. I make them for my server, pandamonium.games :)
-- 🌱 I’m currently learning Scala.
-- 💞️ I’m looking to collaborate on anything! Hit me up!
-- 📫 Email: piquagrearj@gmail.com
+- 👀 I’m used to work on Minecraft plugins for a server I ran, but I am currently working on a solitaire solving program.
+- 🌱 I’m currently working with Python and PyQt.
+- 💞️ I’m looking to collaborate on anything! Open to paid internships for my college credit or jobs willing to work around my schedule.
+- 📫 Email: jgrear@bgsu.edu
 - ☎️ Phone: (937) 541 - 2303
-
-<!---
-FunkyMonkeyJJ/FunkyMonkeyJJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
