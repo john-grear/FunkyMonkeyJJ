@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FunkyMonkeyJJ
-- 👀 I’m used to work on Minecraft plugins for a server I ran, but I am currently working on a solitaire solving program.
-- 🌱 I’m currently working with Python and PyQt.
-- 💞️ I’m looking to collaborate on anything! Open to paid internships for my college credit or jobs willing to work around my schedule.
-- 📫 Email: jgrear@bgsu.edu
+- 👀 I’m used to work on Minecraft plugins for a server I ran, but I am currently looking for side projects to work on.
+- 🌱 I’m currently working with all languages
+- 💞️ I’m looking to collaborate on anything! Open to full time, software development jobs.
+- 📫 Email: piquagrearj@gmail.com
 - ☎️ Phone: (937) 541 - 2303
